@@ -1,4 +1,4 @@
-### **Oii, sou Maria Rita** 
+### **Oii, sou MR** 
 
 Já que sou, o jeito é ser... 🤠
 
