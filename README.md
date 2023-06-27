@@ -1,23 +1,17 @@
 ### **Oii, sou Maria Rita** 💐
 
-**Já que sou, o jeito é ser... 🤠** 
+Já que sou, o jeito é ser... 🤠
 
-• 🧚‍♀️ **Livros:** já vivi e descobri diversos mundos 
 
-• 🪐 Aprendiz em python, javascript e django
+• 🧚‍♀️ Livros: já vivi e descobri diversos mundos 
 
 • 🌙 Amo gatinhos, principalmente, pretos 🐈‍⬛
-<!--
-**Mariarittha/Mariarittha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+• 🪐 Aprendiz em python, javascript e django;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "display: inline">
+<img width= "40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img width= "40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+<img width= "40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+</div>         
+                    
