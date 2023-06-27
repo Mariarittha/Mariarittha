@@ -1,5 +1,12 @@
-### Oii, sou Maria Rita 💐
+### **Oii, sou Maria Rita** 💐
 
+**Já que sou, o jeito é ser... 🤠** 
+
+• 🧚‍♀️ **Livros:** já vivi e descobri diversos mundos 
+
+• 🪐 Aprendiz em python, javascript e django
+
+• 🌙 Amo gatinhos, principalmente, pretos 🐈‍⬛
 <!--
 **Mariarittha/Mariarittha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
