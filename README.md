@@ -1,4 +1,4 @@
-### **Oii, sou Maria Rita** 💐
+### **Oii, sou Maria Rita** 
 
 Já que sou, o jeito é ser... 🤠
 
@@ -7,7 +7,7 @@ Já que sou, o jeito é ser... 🤠
 
 • 🌙 Amo gatinhos, principalmente, pretos 🐈‍⬛
 
-• 🪐 Aprendiz em python, javascript e django;
+• 🪐 Aprendiz em python, javascript e django:
 
 <div style = "display: inline">
 <img width= "40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
