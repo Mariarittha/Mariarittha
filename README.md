@@ -2,11 +2,6 @@
 
 Já que sou, o jeito é ser... 🤠
 
-
-• 🧚‍♀️ Livros: já vivi e descobri diversos mundos 
-
-• 🌙 Amo gatinhos, principalmente, pretos 🐈‍⬛
-
 • 🪐 Aprendiz em python, javascript e django
 
 <div style = "display: inline">
