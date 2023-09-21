@@ -1,4 +1,4 @@
-### **Oii, sou MR** 
+### **MR** 
 
 Já que sou, o jeito é ser... 🤠
 
